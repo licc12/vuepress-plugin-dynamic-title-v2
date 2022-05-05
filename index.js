@@ -4,9 +4,9 @@ module.exports = (options = {}, context) => ({
   define() {
     const {
       showIcon = '',
-      showText = '(/≧▽≦/)咦！又好了！',
+      showText = '',
       hideIcon = '',
-      hideText = '(●—●)喔哟，崩溃啦！',
+      hideText = '',
       recoverTime = 2000,
     } = options
 
