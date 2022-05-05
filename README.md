@@ -13,6 +13,10 @@
 -  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
 -  Live demo: [notev](https://nyakku.moe/)
 
+## Dependencies vuepress version
+
+vuepress version v2.0.0+
+
 ## Install
 
 ```bash
