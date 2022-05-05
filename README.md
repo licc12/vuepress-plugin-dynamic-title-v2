@@ -29,7 +29,7 @@ npm i vuepress-plugin-dynamic-title-v2 -D
 
 ```javascript
 module.exports = {
-   plugins: ['dynamic-title'],
+   plugins: ['dynamic-title-v2'],
 }
 ```
 
@@ -39,7 +39,7 @@ module.exports = {
 module.exports = {
    plugins: [
       [
-         'dynamic-title',
+         'dynamic-title-v2',
          {
             showIcon: '/favicon.ico',
             showText: '(/≧▽≦/)咦！又好了！',
