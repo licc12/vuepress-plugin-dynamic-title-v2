@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-plugin-dynamic-title-v2",
+  "version": "1.0.0",
+  "description": "Add a dynamic title in your vuepress!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/licc12/vuepress-plugin-dynamic-title-v2.git"
+  },
+  "keywords": [
+    "vuepress",
+    "plugin",
+    "title"
+  ],
+  "files": [
+    "index.js",
+    "lib/",
+    "package.json",
+    "README.md"
+  ],
+  "author": "Nyakku Shigure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/licc12/vuepress-plugin-dynamic-title-v2/issues"
+  },
+  "homepage": "https://github.com/licc12/vuepress-plugin-dynamic-title-v2#readme"
+}
