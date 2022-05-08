@@ -4,7 +4,6 @@
 export default {
   name: 'DynamicTitle',
   data() {
-    console.log(111111212);
     return {
       originTitle: '',
       recoverTimeout: null,
